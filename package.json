@@ -1,5 +1,5 @@
 {
-    "name": "@sklinet/strapi-plugin-tinymce",
+    "name": "cm-strapi-plugin-tinymce",
     "version": "1.1.4",
     "description": "Strapi custom field with a customized build of TinyMCE richtext editor.",
     "keywords": [
@@ -86,6 +86,6 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/SKLINET/strapi-plugin-tinymce"
+        "url": "https://github.com/codemobiles/cm-strapi-plugin-tinymce"
     }
 }
